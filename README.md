@@ -1,3 +1,5 @@
+SZEKERES zOLTÁN
+
 A program egy játék részprogramja, annak egy elemét írja le. A játékosok kétféle karakter közül választhatnak (Predátor. Alien) 
 Az absztrakt osztály a Karakter. A program a két karakter egy-egy tulajdonságának állapotváltozását írja le egy-egy játék után.
 A predátor tűzereje minden játék után csökken, de tűzerőkímélő üzemmódban kevésbé, Az alien sebessége négy kategóriába osztható:
